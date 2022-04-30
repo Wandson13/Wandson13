@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 <div align="center">
-<img alt="Wandson github stats" height="210" src="https://github-readme-stats.vercel.app/api?username=Wandson&theme=dracula&show_icons=true&hide_border=true" />
-<img alt="Wandson github stats" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wandson&theme=dracula&hide_border=true" />
+<img alt="Wandson github stats" height="210" src="https://github-readme-stats.vercel.app/api?username=Wandson13&theme=dracula&show_icons=true&hide_border=true" />
+<img alt="Wandson github stats" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wandson13&theme=dracula&hide_border=true" />
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Wandson13&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
