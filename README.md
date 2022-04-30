@@ -29,13 +29,9 @@ Here are some ideas to get you started:
 #### 🔭 I’m currently working on
 
 - HTML + CSS + Javascript
-- React
-- React Native
-- Typescript
-- NodeJS
-- Java + Spring Boot
-- Python
+- Lua
+- Java
 
 #### 🤔 I’m looking for help with
 
-- Haskell
+- React
