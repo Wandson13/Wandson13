@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Wandson13&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Wandson13&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 </div>
 
 #### 🔭 I’m currently working on
