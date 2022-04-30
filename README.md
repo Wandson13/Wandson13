@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align="center">
 <img alt="Wandson github stats" height="210" src="https://github-readme-stats.vercel.app/api?username=Wandson13&theme=dracula&show_icons=true&hide_border=true" />
   
-<img alt="Wandson github stats" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wandson13&theme=dracula&hide_border=true" />
+<img alt="Wandson github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wandson13&theme=dracula&hide_border=true" />
 </div>
 
 <div align="center">
